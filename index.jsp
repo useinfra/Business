@@ -1,7 +1,7 @@
 <%@ page contentType = "text/html; charset=shift_jis" %>
 <HTML>
 <HEAD>
-<TITLE>Jicky HomeNetwork</TITLE>
+<TITLE>Use Business</TITLE>
 <link rel="SHORTCUT ICON" href="jsp/icon/icon.ico">
 <FRAMESET ROWS="0px,*" FRAMEBORDER="0" BORDER="0">
 	<FRAME name="FRAME" noresize scrolling="NO" src="jsp/Common/dummy.html" frameborder="NO">
